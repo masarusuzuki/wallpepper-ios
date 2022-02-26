@@ -26,7 +26,7 @@ Download the release here [Release](https://github.io/masarusuzuki/wallpepper-io
 Want to contribute? Great!
 
 Wallpepper is trying to become a full fledged application, with applications on Windows, and MacOS.
-
+https://ko-fi.com/orenarypaladin0388
 
 
 ## License
