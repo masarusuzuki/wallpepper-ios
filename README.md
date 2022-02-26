@@ -1,5 +1,7 @@
 # Wallpepper iOS Shortcut
 Wallpepper iOS is a free, open-source shortcut available for all users with an iPhone, iPad, or an iPod.
+With the recent update to the 14.5, the Wallpepper iOS Shortcut has now more functions than before and will be pushed out with v0.2!
+Please ensure that you select the Wallpepper shortcut based on your iOS version.
 ## Features
 
 - Fully customizeable
